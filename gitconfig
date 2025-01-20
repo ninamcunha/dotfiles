@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ninamcunha@gmail.com
+	name = Nina Menezes Cunha
